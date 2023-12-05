@@ -1,9 +1,13 @@
 #!/bin/bash
 
-# Display memory usage
+# Display memory and disk usage
 echo "Memory Usage:"
 free -h
-
-# Display disk usage
+echo ""
 echo "Disk Usage:"
 df -h
+echo ""
+
+# Display network information
+echo "Network Information:"
+ip addr
