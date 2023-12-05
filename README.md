@@ -1,5 +1,3 @@
-Certainly! Here's a concise explanation of how to use a Bash script in a README file on GitHub:
-
 ### Using a Bash Script
 
 #### Description
@@ -8,12 +6,12 @@ This repository contains a Bash script named `info.sh` that displays system info
 #### How to Use
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone git@github.com:narinebrutian/bdg_git-practice.git
    ```
 
 2. **Navigate to the Directory**: Change to the cloned directory:
    ```bash
-   cd repository-name
+   cd git-practice
    ```
 
 3. **Run the Script**: Execute the `info.sh` script using Bash:
