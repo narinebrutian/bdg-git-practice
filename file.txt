@@ -3,6 +3,7 @@ My first commit!
 
 Second change!
 
+Third change!
 
-change form rebasing branch
+Change from feature-branch...
 
