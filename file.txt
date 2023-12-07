@@ -2,3 +2,7 @@ My first commit!
 
 
 Second change!
+
+Third change!
+
+Change from rebasing branch...
