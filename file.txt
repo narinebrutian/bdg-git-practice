@@ -4,13 +4,22 @@ My first commit!
 Second change!
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Third change!
 =======
 <<<<<<< HEAD
 >>>>>>> 71129a7 (modified file.txt file)
+=======
+<<<<<<< HEAD
+>>>>>>> cdcd9e5 (modified file.txt file)
 
 Change from feature-branch...
 
+=======
+Third change!
+
+Change from rebasing branch...
+>>>>>>> 4f9e4ea (modified file.txt file)
 =======
 Third change!
 
